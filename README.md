@@ -1,6 +1,6 @@
 # Drowsiness-Detection
 
-Detects the level of drowsiness from a persons eyes and alerts him using an alarm.
+Detects the level of drowsiness from a person's eyes and alerts him using an alarm.
 
 # Important points
 
