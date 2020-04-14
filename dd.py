@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 12 19:52:28 2020
 
-@author: vivek
-"""
 
 from pygame import mixer
 import cv2
